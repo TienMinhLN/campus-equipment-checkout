@@ -1,3 +1,3 @@
 # campus-equipment-checkout
-Track laptops, cameras, and lab kits available for student checkout.
+Track laptops, tablets, and lab kits.
 Adding a search feature
